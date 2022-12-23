@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckra0z
 - 👀 I’m interested in hacking and hardwar hacking
-- 🌱 I’m currently learning ethical hacking
+- 🌱 I’m currently learning ethical hacking / programming 
 - donat
 paypal  https://paypal.me/levapoteurbk
 <!---
